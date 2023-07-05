@@ -1,0 +1,6 @@
+admID=*
+admPassword=*
+domainName=*
+serverName=*
+abcd3210
+ABCD6632

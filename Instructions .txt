@@ -1,0 +1,8 @@
+Step 1. Modify the 'info. txt' file
+
+Line 1- Line 4: Parameter information
+After line 5: Syscoid (ignoring case)
+
+Step 2. Double click on info.bat
+
+If result.txt appears in the current folder, the query is successful.
